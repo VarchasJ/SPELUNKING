@@ -1,6 +1,6 @@
 # SPELUNKING
 
-![SPELUNKING Logo](WhatsApp%20Image%202025-11-27%20at%2020.00.16_2d3333ba.jpg)
+![SPELUNKING Logo](LOGO>jpg)
 
 ## Spelunking - Area 1
 
