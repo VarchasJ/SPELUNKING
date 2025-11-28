@@ -1,6 +1,6 @@
 # SPELUNKING
 
-![SPELUNKING Logo](LOGO>jpg)
+![SPELUNKING Logo](LOGO.jpg)
 
 ## Spelunking - Area 1
 
